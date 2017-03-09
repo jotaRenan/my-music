@@ -354,3 +354,4 @@ Com o projeto criado e o código aberto, é hora de fazer algumas modificações
 [cors-ionic-blog]: http://blog.ionic.io/handling-cors-issues-in-ionic/
 [master-detail]: http://mcgivery.com/ionic-master-detail-pattern/
 [ui-router-path-params]: https://github.com/angular-ui/ui-router/wiki/URL-Routing#basic-parameters
+[sass]: http://sass-lang.com/
